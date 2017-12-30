@@ -1,9 +1,9 @@
-# What is this?
+# 这是什么？
 
-An unofficial website to ridicule Zhixin High School
+一个用来嘲讽广州五中的非官方的网站
 
-# Why Fuck Zhxhs？
+# 为什么要Fuck五中？
 
-There are some people who try to make Zhixin great again by depriving of our rights.
+因为五中的决策非常明智，所以我为此宣传一下。
 
 我本可以忍受黑暗，如果我未曾看见黎明。
